@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Large original dataset
+data/raw/bank-full.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log

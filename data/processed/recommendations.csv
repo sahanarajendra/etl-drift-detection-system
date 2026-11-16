@@ -1,0 +1,5 @@
+Issue,Recommendation,Priority
+Drift in age,Investigate the distribution changes in the age column.,High
+Drift in job,Investigate the distribution changes in the job column.,High
+Drift in education,Investigate the distribution changes in the education column.,High
+Drift in balance,Investigate the distribution changes in the balance column.,High

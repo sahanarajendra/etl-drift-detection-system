@@ -1,0 +1,18 @@
+Column,Data Type,KS Statistic,P Value,PSI,Wasserstein Distance,Drift Status
+age,Numerical,0.0089,0.438142,0.0015,0.204,No Drift Detected
+job,Categorical,,0.146327,,,No Drift Detected
+marital,Categorical,,0.898004,,,No Drift Detected
+education,Categorical,,0.049437,,,Drift Detected
+default,Categorical,,0.644196,,,No Drift Detected
+balance,Numerical,0.0062,0.854727,0.0005,32.4169,No Drift Detected
+housing,Categorical,,0.483949,,,No Drift Detected
+loan,Categorical,,0.937289,,,No Drift Detected
+contact,Categorical,,0.927589,,,No Drift Detected
+day,Numerical,0.0037,0.999414,0.0003,0.0484,No Drift Detected
+month,Categorical,,0.565733,,,No Drift Detected
+duration,Numerical,0.0048,0.981275,0.0008,3.1739,No Drift Detected
+campaign,Numerical,0.0043,0.993782,0.0002,0.0263,No Drift Detected
+pdays,Numerical,0.006,0.878968,0.0,1.1075,No Drift Detected
+previous,Numerical,0.0051,0.964848,0.0002,0.0407,No Drift Detected
+poutcome,Categorical,,0.314814,,,No Drift Detected
+y,Categorical,,1.0,,,No Drift Detected
